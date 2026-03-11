@@ -14,7 +14,5 @@ I’m a Game Designer with a strong focus on Level Design and Combat Design, pas
 
 ![](https://nirzak-streak-stats.vercel.app/?user=GonzaCarry&theme=dark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GonzaCarry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
